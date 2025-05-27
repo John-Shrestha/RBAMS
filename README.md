@@ -37,7 +37,7 @@ A console-based Java application designed to support financial inclusion in remo
 ## Screenshots
 
 ### Deposit Operation
-![Deposit Operation](screenshots/deposit.png)
+![Deposit Operation](https://github.com/John-Shrestha/RBAMS/blob/b5b46a1c7e323643666992683236dd4e7aadd319/Screenshot%202025-05-27%20153055.png)
 
 ### Withdrawal with Exception
 ![Withdrawal Exception](screenshots/withdrawal_exception.png)
