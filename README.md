@@ -38,12 +38,13 @@ A console-based Java application designed to support financial inclusion in remo
 
 ### Deposit Operation
 
-### Withdrawal with Exception
+### Deposit Operation
 
 <table>
   <tr>
     <td><img src="https://github.com/John-Shrestha/RBAMS/blob/b5b46a1c7e323643666992683236dd4e7aadd319/Screenshot%202025-05-27%20153055.png" alt="" width="400"></td>
     <td><img src="https://github.com/John-Shrestha/RBAMS/blob/68b42fcf47eaa9dc591febb709f1f4a48b0c641f/Screenshot%202025-05-27%20153137.png" alt="" width="400"></td>
+     <td><img src="" alt="" width="400"></td>
   </tr>
   <tr>
     <td align="center">Attempting to withdraw</td>
