@@ -49,7 +49,14 @@ A console-based Java application designed to support financial inclusion in remo
 </table>
 
 ### Withdrawal with Exception
-![Withdrawal Exception](https://github.com/John-Shrestha/RBAMS/blob/dec4217452e62635679702a2f7d9dbfd891ef47e/Screenshot%202025-05-27%20153243.png)
+
+<table>
+  <tr>
+    <td><img src="https://github.com/John-Shrestha/RBAMS/blob/dec4217452e62635679702a2f7d9dbfd891ef47e/Screenshot%202025-05-27%20153243.png" alt="" width="400"></td>
+    <td><img src="https://github.com/John-Shrestha/RBAMS/blob/09bd766c44cb9aa55f1eeffe0d9e8055b66161c7/Screenshot%202025-05-27%20153311.png" alt="" width="400"></td>
+  </tr>
+</table>
+
 
 ### Interest Addition
 ![Interest Addition](screenshots/interest_addition.png)
