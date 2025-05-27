@@ -59,7 +59,7 @@ A console-based Java application designed to support financial inclusion in remo
 
 
 ### Interest Addition
-![Interest Addition](screenshots/interest_addition.png)
+![Interest Addition](https://github.com/John-Shrestha/RBAMS/blob/3fc3adb2017d512fdaa0c17951fbc4281d165841/Screenshot%202025-05-27%20153355.png)
 
 ## Getting Started
 
